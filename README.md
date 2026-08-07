@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou Victor Hugo 👋
 
-<!--
-**vhreisDEV/vhreisDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer
 
-Here are some ideas to get you started:
+Sou desenvolvedor com experiência em Python, automação e desenvolvimento de soluções utilizando tecnologia para resolver problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou me aprofundando em Cloud, Inteligência Artificial e desenvolvimento de aplicações completas, criando projetos práticos para evoluir minhas habilidades.
+
+---
+
+## 🚀 Projeto atual
+
+### ⚽ Football Analytics Platform
+
+Plataforma de análise estatística de futebol utilizando dados, programação e inteligência artificial.
+
+O objetivo é criar uma aplicação capaz de analisar desempenho de times, estatísticas de jogos e gerar insights utilizando tecnologias modernas.
+
+---
+
+## 🛠 Tecnologias e ferramentas
+
+- 🐍 Python
+- 🌐 APIs
+- 🔄 Automação
+- 📦 Git e GitHub
+- ☁️ Cloud
+- 🤖 Inteligência Artificial
+- 📊 Análise de dados
+
+---
+
+## 🎯 Objetivos
+
+- Construir projetos reais de portfólio
+- Evoluir em arquitetura de software
+- Aprender e aplicar Cloud e IA
+- Desenvolver soluções completas do início ao deploy
+
+---
+
+📌 Sempre aprendendo, construindo e evoluindo.
