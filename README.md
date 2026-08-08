@@ -34,7 +34,7 @@ O objetivo é criar uma aplicação capaz de analisar desempenho de times, estat
 
 - Construir projetos reais de portfólio
 - Evoluir em arquitetura de software
-- Aprender e aplicar Cloud e IA
+- Aprender e aplicar Claude e IA
 - Desenvolver soluções completas do início ao deploy
 
 ---
