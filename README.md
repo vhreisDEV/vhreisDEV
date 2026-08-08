@@ -4,7 +4,7 @@
 
 Sou desenvolvedor com experiência em Python, automação e desenvolvimento de soluções utilizando tecnologia para resolver problemas reais.
 
-Atualmente estou me aprofundando em Cloud, Inteligência Artificial e desenvolvimento de aplicações completas, criando projetos práticos para evoluir minhas habilidades.
+Atualmente estou me aprofundando em Claude, Inteligência Artificial e desenvolvimento de aplicações completas, criando projetos práticos para evoluir minhas habilidades.
 
 ---
 
