@@ -2,31 +2,39 @@
 
 💻 Software Developer
 
-Sou desenvolvedor com experiência em Python, automação e desenvolvimento de soluções utilizando tecnologia para resolver problemas reais.
+Sou desenvolvedor com experiência em Python, automação e desenvolvimento de aplicações web
+completas — do backend ao frontend, do banco de dados ao deploy.
 
-Atualmente estou me aprofundando em Claude, Inteligência Artificial e desenvolvimento de aplicações completas, criando projetos práticos para evoluir minhas habilidades.
+Atualmente estou me aprofundando em Claude, Inteligência Artificial e desenvolvimento full-stack,
+criando projetos práticos pra evoluir minhas habilidades.
 
 ---
 
-## 🚀 Projeto atual
+## 🚀 Projetos em destaque
 
-### ⚽ Football Analytics Platform
+### ⚽ [Football Analytics Platform (VEAGA)](https://github.com/vhreisDEV/futebol-stats)
+Plataforma de análise estatística de futebol com dados reais, estatísticas por time e jogador, e
+insights gerados com apoio de IA.
+🔗 [veaga-psi.vercel.app](https://veaga-psi.vercel.app)
 
-Plataforma de análise estatística de futebol utilizando dados, programação e inteligência artificial.
-
-O objetivo é criar uma aplicação capaz de analisar desempenho de times, estatísticas de jogos e gerar insights utilizando tecnologias modernas.
+### 🎉 [Convite Digital de 15 Anos](https://github.com/vhreisDEV/convite-15anos-template)
+Template de convite digital individual por convidado — link próprio por pessoa, confirmação de
+presença com QR Code, Supabase e deploy automático.
+🔗 [convite-15anos-template.vercel.app](https://convite-15anos-template.vercel.app)
 
 ---
 
 ## 🛠 Tecnologias e ferramentas
 
 - 🐍 Python
-- 🌐 APIs
+- ⚛️ React / Next.js / TypeScript
+- 🎨 Tailwind CSS
+- 🗄️ Supabase / PostgreSQL
+- 🌐 APIs REST
 - 🔄 Automação
 - 📦 Git e GitHub
-- ☁️ Cloud
+- ☁️ Cloud (Vercel)
 - 🤖 Inteligência Artificial
-- 📊 Análise de dados
 
 ---
 
@@ -34,7 +42,7 @@ O objetivo é criar uma aplicação capaz de analisar desempenho de times, estat
 
 - Construir projetos reais de portfólio
 - Evoluir em arquitetura de software
-- Aprender e aplicar Claude e IA
+- Aprender e aplicar Claude e IA no dia a dia
 - Desenvolver soluções completas do início ao deploy
 
 ---
