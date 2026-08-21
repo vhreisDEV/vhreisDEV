@@ -1,6 +1,6 @@
 # Olá, eu sou Victor Hugo 👋
 
-💻 Software Developer
+💻 Desenvolvedor de Software
 
 Sou desenvolvedor com experiência em Python, automação e desenvolvimento de aplicações web
 completas — do backend ao frontend, do banco de dados ao deploy.
