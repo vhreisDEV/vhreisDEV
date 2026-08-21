@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e3a5f,100:2563eb&text=Victor%20Hugo&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Victor Hugo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0a,50:2b2119,100:a8763e&text=Victor%20Hugo&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Victor Hugo" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Jost&weight=600&size=22&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Python+%7C+Next.js+%7C+TypeScript;Automa%C3%A7%C3%A3o+%7C+Cloud+%7C+IA;Sempre+aprendendo+e+construindo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Jost&weight=600&size=22&duration=2500&pause=800&color=A8763E&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Python+%7C+Next.js+%7C+TypeScript;Automa%C3%A7%C3%A3o+%7C+Cloud+%7C+IA;Sempre+aprendendo+e+construindo" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-vhreisDEV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vhreisDEV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Hugo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-moitinho-reis-009a9a191/)
@@ -61,6 +61,6 @@ por convidado com QR Code.
 
 📌 Sempre aprendendo, construindo e evoluindo.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1e3a5f,100:2563eb" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0a0a0a,50:2b2119,100:a8763e" width="100%" alt="" />
 
 </div>
