@@ -22,6 +22,11 @@ Template de convite digital individual por convidado — link próprio por pesso
 presença com QR Code, Supabase e deploy automático.
 🔗 [convite-15anos-template.vercel.app](https://convite-15anos-template.vercel.app)
 
+### 💍 [Convite Digital de Casamento](https://github.com/vhreisDEV/convite-casamento-template)
+Template de convite digital de casamento — história do casal, padrinhos, confirmação de presença
+por convidado com QR Code.
+🔗 [convite-casamento-template.vercel.app](https://convite-casamento-template.vercel.app)
+
 ---
 
 ## 🛠 Tecnologias e ferramentas
